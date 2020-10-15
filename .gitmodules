@@ -1,0 +1,3 @@
+[submodule "amongUsParser"]
+	path = amongUsParser
+	url = https://github.com/jordam/amongUsParser.git

@@ -9,6 +9,8 @@ Requires pcap on system for packet reading
 
 Requires python libraries: scapy, janus, discord
 
+Shoutouts to https://github.com/denverquane/amongusdiscord for a lot of the inspiration for the project.
+
 To Use
 ======
 Follow the instructions at https://realpython.com/how-to-make-a-discord-bot-python/ to create a discord bot and add it to your guild.
